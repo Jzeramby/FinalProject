@@ -6,7 +6,7 @@ This repository contains all of the necessary documents, files, and materials fo
 
 ### Rmarkdown File:
 
-1.  Final_Project_WildlifeRecords.Rmd-  This Rmarkdown file, which served as an analytic "lab notebook" for the subsequent exploratory data analysis of wildlife rehabilitation intake records, contains all of the code from this analysis, as well as all of the generated output, plots, figures, tables, and results—even those that were not included in the final report. This file also includes comments and notes that walk the reader through the thought process and analysis plan from beginning to end, explaining each step along the way.
+1.  Final_Project_WildlifeRecords.Rmd-  This Rmarkdown file, which served as an analytic "lab notebook" for the subsequent exploratory analysis of wildlife rehabilitation intake records, contains all of the code from this analysis, regardless of whether the code was included in the final report. This file also includes comments and notes that guide the reader through the thought process and analysis plan from start to finish, explaining each step along the way. This file contains all R code.
 
 ### R File:
 
@@ -18,7 +18,7 @@ This repository contains all of the necessary documents, files, and materials fo
 
 ### PDF Files: 
 
-4. JZeramby_WildlifeDataAnalysis.pdf- This file contains the PDF version of this exploratory analysis, which was knitted into this format using Rmarkdown. This file contains the same information as the previous Rmd markdown file, including all code and associated results, but it also includes all generated figures, results, and other output in pdf format, providing a visual representation of all associated results from this analysis. This is a pdf version of the markdown analysis that includes all generated plots and figures, including those that were not included in the final report.
+4. JZeramby_WildlifeDataAnalysis.pdf- This file contains the exploratory analysis of wildlife rehabilitation intake records, as well as all output generated from this analysis, regardless of whether the output and results were included in the final report. This file also includes comments and notes that guide the reader through the thought process and analysis from start to finish, explaining each step along the way. This file contains all output but no R code.
 
 5. JZeramby_FinalReport.pdf- This file contains a written report that explains how the data in this analysis was generated, the significance of doing so, and a discussion of the associated results. This PDF includes an introduction, methods, results, discussion, references, and a section with tables and figures.
 
