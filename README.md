@@ -1,6 +1,6 @@
 # Final Report (BIO 539)
 
-This repository contains all of the necessary documents, files, and materials for the exploratory data analysis that serves as the final project for BIO 539, spring 2021 semester. This repository, which contains eight files, including this read-me text file, should be read in the order listed below in order to fully comprehend this analysis.
+This repository contains all of the materials required for the exploratory data analysis that serves as the final project for BIO 539 during the spring 2021 semester. This repository, which contains eight files, including this read-me text file, should be read in the order listed below in order to fully comprehend this analysis.
 
 ## Contents of Repository
 
