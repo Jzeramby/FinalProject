@@ -18,7 +18,7 @@ This repository contains all of the necessary documents, files, and materials fo
 
 ### PDF Files: 
 
-4. JZeramby_WildlifeDataAnalysis.pdf- This file contains the exploratory analysis of wildlife rehabilitation intake records, as well as all output generated from this analysis, regardless of whether the output and results were included in the final report. This file also includes comments and notes that guide the reader through the thought process and analysis from start to finish, explaining each step along the way. This file contains all output but no R code.
+4. JZeramby_WildlifeDataAnalysis.pdf- This file contains the exploratory analysis of wildlife rehabilitation intake records, including all of the output generated from this analysis, regardless of whether the output and associated results were included in the final report. This file also includes comments and notes that guide the reader through the thought process and analysis plan from start to finish, explaining each step along the way. This file contains all output but no R code.
 
 5. JZeramby_FinalReport.pdf- This file contains a written report that explains how the data in this analysis was generated, the significance of doing so, and a discussion of the associated results. This PDF includes an introduction, methods, results, discussion, references, and a section with tables and figures.
 
