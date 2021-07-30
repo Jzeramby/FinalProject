@@ -1,12 +1,22 @@
-# WildlifeRecords
-1. .R File
-  - This file contains a .R document containing all necessary code to run this analysis, including code that was not incorporated into the final product of this report. 
-2. .Rmd File
-  -
-4. .Pdf File
+# Final Report (BIO 539)
 
-5. Final Report
-  - This final product has not been published yet 
-  
-7. CSV Files 
-- This section includes four separate CSV files. Each file contains the annual wildlife rehabilitation intake records from one of the four years of data used in this analysis. Each year of data included in this analysis is represented by the four files: 2014, 2016, 2018, and 2019. 
+This repository contains all of the necessary documents, files, and materials for the exploratory data analysis that serves as the final project for BIO 539, spring 2021 semester. This repository, which contains eight files, including this read-me text file, should be read in the order listed below in order to fully comprehend this analysis.
+
+## Contents of Repository
+
+### Rmarkdown File:
+
+1.  Final_project_WildlifeRecords.Rmd-  This Rmarkdown file, which served as an analytic "lab notebook" for the subsequent exploratory data analysis of wildlife rehabilitation intake records, contains all of the code from this analysis, as well as all of the generated output, plots, figures, tables, and results—even those that were not included in the final report. This file also includes comments and notes that walk the reader through the thought process and analysis plan from beginning to end, explaining each step along the way.
+
+### R File:
+
+2. Final_project_WildlifeRecords.R- This R file contains all of the code needed to replicate this analysis and reproduce these results.
+
+### CSV Files:
+
+3. 2014Records.csv, 2016Records.csv, 2018Records.csv, 2019Records.csv– All raw data sets used in this analysis are contained in these files. Four separate CSV files are included in this section. Each file contains the annual wildlife rehabilitation intake records from one of the four years of data used in this analysis. Each year of data included in this analysis is represented by four files: 2014, 2016, 2018, and 2019. 
+
+### PDF File: 
+
+4. Jzeramby_WildlifeDataAnalysis.pdf- This file contains a written report that explains how the data in this analysis was generated, the significance of doing so, and a discussion of the associated results. This PDF includes an introduction, methods, results, discussion, references, and a section with tables and figures.
+
