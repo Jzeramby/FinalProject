@@ -1879,7 +1879,7 @@ merge_admissions <- Allyearsdata1 %>%
   tally()
 
 #count top 5 common reasons for admission in all years
-merge_admissions <- merge_admissions %>%
+merge_admissions <- Allyearsdata1%>%
   group_by(cause_for_admission) %>%
   summarise(count = n()) %>%
   na.omit("merge_admissions") %>%
